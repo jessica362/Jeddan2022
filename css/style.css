@@ -1,0 +1,23 @@
+.btn-primary{
+	background-color: rgb(165, 11, 11, 0.733);
+}
+
+#services{
+	background-color:rgb(165, 11, 11);
+	color: black;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/Namnlös\ design\ \(5\).png");
+}
+
+
